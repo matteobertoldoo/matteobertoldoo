@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">It's MatteoBertoldo</h1>
+<h3 align="center">I am a Software Engineer</h3>
+
+- 🌱 I’m currently learning **Cybersecurity and Blockchain**
+- 📫 How to reach me **matteobertoldo8@gmail.com**
+
 
 <!--
 **matteobertoldoo/matteobertoldoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
